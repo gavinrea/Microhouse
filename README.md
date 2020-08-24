@@ -1,23 +1,21 @@
 
-# Microhouse 
+# WikiStudio
 
-MicroHouse is a high-performance, one-bed house type, designed using the WikiHouse building system. It uses WikiHouse products WREN and SPARROW. It has been designed primarily for use in the UK, but could also be adapted for other countries and regions. The home can be largely self-assembled, and costs around £37-45k GBP to produce. 
+wikiStudio is a high-performance detatched studio/office building designed using the WikiHouse building system. It uses WikiHouse WREN building system. The home can be largely self-assembled, and costs around $10-15k USD to produce. 
 
 These files are also intended as starter files for architects, designers, engineers and others interested in getting to know how to use the WikiHouse WREN system within a full design.
 
 ![alt tag](https://github.com/wikihouseproject/Microhouse/blob/master/microhouse_0.5_isoFull.jpg)
 
-_Project Engine: contains specification, costing/quantity information, and overall dimensions of the Microhouse design
+_Project Engine: contains specification, costing/quantity information, and overall dimensions of the WikiStudio design
 
 _AssemblyManual: Detailed guide on how to put the whole thing together
 
-_othercomponents_v0.5.dxf: Additional CNC cutting files for other components, such as fit-out furniture using SPARROW and cladding panels.
-
 _WRENchassis_v0.5.dxf: Complete CNC cutting files for the building's structural chassis
 
-_microhouse_0.5.skp: Sketchup 3D Model of the complete design including cladding, fitout and services
+_wikistudio_0.5.skp: Sketchup 3D Model of the complete design including cladding and fitout
 
-_microhouse_0.5_chassis.skp: Sketchup 3D Model of the Wikihouse structural chassis
+_wikistudio_0.5_chassis.skp: Sketchup 3D Model of the Wikihouse structural chassis
 
 ![alt tag](https://github.com/wikihouseproject/Microhouse/blob/master/microhouse_0.5_iso.jpg)
 
